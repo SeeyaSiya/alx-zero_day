@@ -1,4 +1,3 @@
 Main
 
-This is not an empty description
-Not empty
+This is an updated README file
